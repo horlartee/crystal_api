@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --dp-cell-padding: 10px 5px;
+  --dp-cell-size: 100%;
+}
